@@ -2,5 +2,5 @@
 
 
 
-- 🌱 I’m currently learning JavaScript and web security
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ohdudeeee@gmail.com
